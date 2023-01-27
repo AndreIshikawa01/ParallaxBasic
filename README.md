@@ -1,2 +1,2 @@
 # ParallaxBasic
-https://andreishikawa01.github.io/ParallaxBasic/parallax.html
+https://andreishikawa01.github.io/ParallaxBasic-ESTUDO/parallax.html
